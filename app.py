@@ -136,8 +136,8 @@ p {
 
 
 with gr.Blocks(css=css) as iface:
-    gr.Markdown("# Astronomy Experiment Generator")
-    gr.Markdown("Generate experiments based on a given science objective.")
+    gr.Markdown("# Experiment Generator")
+    gr.Markdown("Generate sample experiments derived on top-level science goals and scientific literature search.")
 
     with gr.Row():
         with gr.Column(scale=1):
