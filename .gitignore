@@ -1,0 +1,5 @@
+vector_store/*
+*.pkl
+*.pickle
+*.npy
+config.yaml
